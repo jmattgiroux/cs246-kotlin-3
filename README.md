@@ -2,6 +2,14 @@
 
 Description:
 
+Requirements:
+- Variables (mutable and immutable)
+- Expressions
+- Conditionals
+- Loops
+- Functions
+- Classes
+
 
 Development Environment:
 

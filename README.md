@@ -1,14 +1,14 @@
 #cs246-kotlin-3
 
-Description:
+Description: Recursive dice game, that runs until the player wins 10 times. 
 
 Requirements:
-- Variables (mutable and immutable)
-- Expressions
-- Conditionals
-- Loops
-- Functions
-- Classes
+- Variables (mutable and immutable) (Done)
+- Expressions (Done)
+- Conditionals (Done)
+- Loops (Done)
+- Functions (Done)
+- Classes (Done)
 
 
 Development Environment:
@@ -22,6 +22,16 @@ IntelliJ IDEA for Windows by Jetbrains
 Java Version 8 Update 271 (build 1.8.0_271-b09)
 
 Build and Execution:
+
+- Output
+
+![output1](https://github.com/jmattgiroux/cs246-kotlin-3/blob/master/output1.png)
+![output2](https://github.com/jmattgiroux/cs246-kotlin-3/blob/master/output2.png)
+
+- Where the recursion magic happens
+
+![recursion](https://github.com/jmattgiroux/cs246-kotlin-3/blob/master/recursion.png)
+
 
 Screenshots:
 

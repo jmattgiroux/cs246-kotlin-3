@@ -29,6 +29,8 @@ Build and Execution:
 located on the left side of the text editor window within IntelliJ IDEA
 (this area is known as the "gutter" within the IntelliJ IDE)
 
+Screenshots:
+
 - Output
 
 ![output1](https://github.com/jmattgiroux/cs246-kotlin-3/blob/master/output1.png)
@@ -39,7 +41,7 @@ located on the left side of the text editor window within IntelliJ IDEA
 ![recursion](https://github.com/jmattgiroux/cs246-kotlin-3/blob/master/recursion.png)
 
 
-Screenshots:
+
 
 Useful Websites:
 

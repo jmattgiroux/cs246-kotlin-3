@@ -23,6 +23,12 @@ Java Version 8 Update 271 (build 1.8.0_271-b09)
 
 Build and Execution:
 
+- clone project using git clone
+- open project in IntelliJ IDEA
+- click the green play button to the left of the Main function, 
+located on the left side of the text editor window within IntelliJ IDEA
+(this area is known as the "gutter" within the IntelliJ IDE)
+
 - Output
 
 ![output1](https://github.com/jmattgiroux/cs246-kotlin-3/blob/master/output1.png)
